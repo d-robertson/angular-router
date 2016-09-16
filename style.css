@@ -1,0 +1,18 @@
+.nav {
+  border: solid steelblue 1px;
+
+}
+
+.top {
+  border: solid steelblue 1px;
+  height: 150px;
+}
+
+.pull-left {
+  border: solid steelblue 1px;
+  height: 100%;
+}
+
+.filler {
+  height: 130px;
+}
